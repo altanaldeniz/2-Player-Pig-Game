@@ -5,3 +5,5 @@ Roll button rolls a dice between 1 and 6. If the rolled number is not 1, player 
 <h4>Hold</h4>
 Hold button simply stores all of your points and ends your turn. You can't hold when you have 0 points.<br>
 First player to get 50 points wins the game. Good luck.<br>
+
+(HTML and CSS files are from Jonas Schmedtmann's Udemy course)
